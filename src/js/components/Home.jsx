@@ -11,13 +11,13 @@ const Home = () => {
       <Navbar />
       <div className="container-fluid">
         <div className="row justify-content-center ">
-          <div className="col-12 col-md-8">
+          <div className="col-12 col-md-10">
             <BigCard />
             <Card />
-            <Footer />
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };

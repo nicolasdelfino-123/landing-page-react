@@ -12,14 +12,19 @@ const Card = () => {
               alt="rigo"
             />
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
+              <h5 class="card-title text-center">Special title treatment</h5>
+              <p class="card-text text-center">
                 With supporting text below as a natural lead-in to additional
                 content.
               </p>
-              <a href="#" class="btn btn-primary d-flex justify-content-center">
-                Find Out More!
-              </a>
+              <div class="card-divider card-bottom-content  bg-secondary-subtle px-3 pb-3">
+                <a
+                  href="#"
+                  class="btn btn-primary d-flex justify-content-center mt-4"
+                >
+                  Find Out More!
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -31,14 +36,19 @@ const Card = () => {
               alt="rigo"
             />
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
+              <h5 class="card-title text-center">Special title treatment</h5>
+              <p class="card-text text-center">
                 With supporting text below as a natural lead-in to additional
                 content.
               </p>
-              <a href="#" class="btn btn-primary d-flex justify-content-center">
-                Find Out More!
-              </a>
+              <div class="card-divider card-bottom-content  bg-secondary-subtle px-3 pb-3">
+                <a
+                  href="#"
+                  class="btn btn-primary d-flex justify-content-center mt-4"
+                >
+                  Find Out More!
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -50,14 +60,19 @@ const Card = () => {
               alt="rigo"
             />
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
+              <h5 class="card-title text-center">Special title treatment</h5>
+              <p class="card-text text-center">
                 With supporting text below as a natural lead-in to additional
                 content.
               </p>
-              <a href="#" class="btn btn-primary d-flex justify-content-center">
-                Find Out More!
-              </a>
+              <div class="card-divider card-bottom-content  bg-secondary-subtle px-3 pb-3">
+                <a
+                  href="#"
+                  class="btn btn-primary d-flex justify-content-center mt-4"
+                >
+                  Find Out More!
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -69,14 +84,19 @@ const Card = () => {
               alt="rigo"
             />
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
+              <h5 class="card-title text-center">Special title treatment</h5>
+              <p class="card-text text-center">
                 With supporting text below as a natural lead-in to additional
                 content.
               </p>
-              <a href="#" class="btn btn-primary d-flex justify-content-center">
-                Find Out More!
-              </a>
+              <div class="card-divider card-bottom-content  bg-secondary-subtle px-3 pb-3">
+                <a
+                  href="#"
+                  class="btn btn-primary d-flex justify-content-center mt-4"
+                >
+                  Find Out More!
+                </a>
+              </div>
             </div>
           </div>
         </div>
